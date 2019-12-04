@@ -1,6 +1,10 @@
+var currentPlayer = "X";
+ var turnCount= 0
+  Boolean(false)
 
-
-
+  function performLogic(buttonId, titleId) {
+      
+  }
 
 
 
