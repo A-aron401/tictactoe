@@ -42,10 +42,8 @@ var currentPlayer = "X";
            alert(currentPlayer+ " Winner" );
       } else if(tile3=== tile6 && tile6=== tile9) {
            alert(currentPlayer+ " Winner" );
-      } else if(tile1=== tile5 && tile5 === tile9) {
+      } else if(tile3=== tile5 && tile5=== tile7) {
            alert(currentPlayer+ " Winner" );
-      } else {
-          alert(currentPlayer+ " Winner" );
       }
       
       
